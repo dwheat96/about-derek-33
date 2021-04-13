@@ -1,11 +1,16 @@
+.center { width: 100%;
+    margin: auto;
+    text-align: center;
+}
+
 body {
-    background-color: darkslategrey;
+    background-color: cadetblue;
 }
 body {
-    color: white;
+    color: black;
 }
 
 img {
-    max-height: 500px;
+    max-height: 250px;
     width: auto;
 }
